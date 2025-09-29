@@ -1,4 +1,4 @@
-# 🏠 Owner & Tenant App  
+# Owner & Tenant App  
 
 A Flutter-based mobile application designed to simplify **apartment and rental management** for owners and tenants. The app allows tenants to view and pay bills securely, while owners can track payments, register tenants, and send reminders.  
 
@@ -63,3 +63,4 @@ flutter pub get
 # Run the app
 flutter run
       
+
