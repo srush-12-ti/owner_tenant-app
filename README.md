@@ -40,27 +40,6 @@ A Flutter-based mobile application designed to simplify **apartment and rental m
 
 ---
 
-## 🚀 Getting Started  
-
-### Prerequisites  
-Ensure you have the following installed:  
-- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
-- [Dart SDK](https://dart.dev/get-dart) (comes with Flutter)  
-- Android Studio / VS Code  
-
-### Installation  
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/owner_tenant_app.git
-
-# Navigate to project folder
-cd owner_tenant_app
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
       
+
 
